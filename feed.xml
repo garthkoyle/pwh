@@ -3,14 +3,14 @@
     <title>Pocatello Idaho Warehouses for Rent or Sale</title>
     <link href="https://pocatellowarehouse.com/feed.xml" rel="self" />
     <link href="https://pocatellowarehouse.com" />
-    <updated>2023-05-25T17:27:52-06:00</updated>
+    <updated>2023-05-25T17:30:01-06:00</updated>
     <author>
         <name>garth koyle</name>
     </author>
     <id>https://pocatellowarehouse.com</id>
 
     <entry>
-        <title>Mountain View Place Large Warehouse</title>
+        <title>Mountain View Place - Large Warehouse</title>
         <author>
             <name>garth koyle</name>
         </author>
@@ -18,7 +18,7 @@
         <id>https://pocatellowarehouse.com/test-post/</id>
         <media:content url="https://pocatellowarehouse.com/media/posts/1/IMG_7241.jpg" medium="image" />
 
-        <updated>2023-05-25T17:27:52-06:00</updated>
+        <updated>2023-05-25T17:30:01-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pocatellowarehouse.com/media/posts/1/IMG_7241.jpg" alt="" />

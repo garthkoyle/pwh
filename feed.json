@@ -12,7 +12,7 @@
         {
             "id": "https://pocatellowarehouse.com/test-post/",
             "url": "https://pocatellowarehouse.com/test-post/",
-            "title": "Mountain View Place Large Warehouse",
+            "title": "Mountain View Place - Large Warehouse",
             "summary": "These are great warehouses located at:&nbsp; Location: Address here Specifications: Warehouse Space: ~ 2,250 sqft (50'x50', minus 20'x13' office space)Office Space: ~ 210 sqft (20'x13', minus bathroom)Bathroom Space: ~ 50 sqft (6'x8')Garage Doors: Two, 12' Overhead, One Man Door into Office",
             "content_html": "\n  <p>\n    <p></p><p></p>\n  </p>\n\n  <p>\n    These are great warehouses located at:&nbsp;\n  </p>\n\n  <p>\n    Location: Address here\n  </p>\n\n  <p>\n    Specifications:\n  </p>\n\n  <ul>\n    <li>Warehouse Space: ~ 2,250 sqft (50'x50', minus 20'x13' office space)</li><li>Office Space: ~ 210 sqft (20'x13', minus bathroom)</li><li>Bathroom Space: ~ 50 sqft (6'x8')</li><li>Garage Doors: Two, 12' Overhead, One Man Door into Office</li>\n  </ul>",
             "image": "https://pocatellowarehouse.com/media/posts/1/IMG_7241.jpg",
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2023-02-03T13:35:46-07:00",
-            "date_modified": "2023-05-25T17:27:52-06:00"
+            "date_modified": "2023-05-25T17:30:01-06:00"
         }
     ]
 }
